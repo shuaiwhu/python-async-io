@@ -1,7 +1,7 @@
 # python-async-io
 # Async IO
 ## Async IO Explained
-Async IO may at first seem counterintuitive and paradoxical. How does something that facilitates concurrent code use a single thread and a single CPU core? I’ve never been very good at conjuring up examples, so I’d like to paraphrase one from Miguel Grinberg’s 2017 PyCon talk, which explains everything quite beautifully:
+Async IO may at first seem counterintuitive and paradoxical. How does something that facilitates concurrent code use **a single thread** and **a single CPU core**? I’ve never been very good at conjuring up examples, so I’d like to paraphrase one from Miguel Grinberg’s 2017 PyCon talk, which explains everything quite beautifully:
 
 Chess master Judit Polgár hosts a chess exhibition in which she plays multiple amateur players. She has two ways of conducting the exhibition: synchronously and asynchronously.
 
